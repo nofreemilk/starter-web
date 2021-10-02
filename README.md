@@ -15,7 +15,7 @@ we gonna put stuff here
 
 ## How To Contribute
 
-contribute how to text here
+contribute how to text here and fork repository
 
 ### Copyright
 
