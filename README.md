@@ -16,3 +16,7 @@ we gonna put stuff here
 ## How To Contribute
 
 contribute how to text here
+
+### Copyright
+
+git.training
