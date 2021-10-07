@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-simple project text. adding more text here for rebasing examplke
+simple project text. adding more text here for rebasing example.  More changes from myfreature
 
 ## Introduction
 
