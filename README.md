@@ -19,4 +19,4 @@ contribute how to text here and fork repository
 
 ### Copyright
 
-git.training
+git.training  all righr reserved
